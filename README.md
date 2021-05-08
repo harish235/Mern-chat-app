@@ -1,7 +1,4 @@
 ## Chat-app
-* [Description](#description)
-* [Technologies](#technologies)
-* [Setup](#setup)
 
 ## Description
 A simple chat application developed using MERN stack and socket.io
